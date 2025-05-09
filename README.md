@@ -51,7 +51,7 @@ Access the deployed application here:
 - `app.py` – Streamlit web application
 - `heart_model.pkl` – Trained Logistic Regression model
 - `scaler.pkl` – Fitted StandardScaler used for preprocessing
-- `Heart_Disease_Prediction.csv` – Original dataset (if included)
+- `Heart_Disease_Prediction.csv` – Original dataset
 - `requirements.txt` – Python packages required for deployment
 
 ## 📌 How It Works
